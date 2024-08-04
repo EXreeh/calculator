@@ -58,11 +58,11 @@
         .operator:hover {
             background-color: #e67e22;
         }
-        .clear {
+        .clear, .backspace {
             background-color: #e74c3c;
             color: #fff;
         }
-        .clear:hover {
+        .clear:hover, .backspace:hover {
             background-color: #c0392b;
         }
         .equal {
