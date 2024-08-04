@@ -1,0 +1,7 @@
+This project creates a stylish calculator using HTML, CSS, and JavaScript. The HTML defines the structure with a table layout for the buttons and display. 
+CSS enhances the appearance with a modern look, including a dark background, white card-like container, and color-coded buttons for operations and functions.
+JavaScript handles the calculator logic, allowing for number and operator inputs, clearing the display, and evaluating the expressions.
+
+HTML: Structures the calculator with a table and input elements.
+CSS: Styles the calculator to be visually appealing and user-friendly.
+JavaScript: Implements the calculator's functionality to display input, clear the display, and calculate results.
